@@ -32,5 +32,5 @@ This project focuses on binary classification of histopathologic images to detec
    - Generated predictions for test set and prepared Kaggle submission.
   
 Kaggle Scores:
-Private Score 0.7941
-Public Score 0.8424
+- Private Score 0.7941
+- Public Score 0.8424
